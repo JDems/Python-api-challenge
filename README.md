@@ -10,3 +10,4 @@ In this Challenge we used citipy Library and OpenWeatherMap API to model the wea
 
 
 I used module 6 activities to help make the graphs, it was some copy and and paste from the ones in class but I also did use chatgpt to help with perfecting some of the graphs and syntax.
+Main code in starter file.
